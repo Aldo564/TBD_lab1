@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Trabajo2grupo2Application<trabajo2grupo2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.tbd.trabajo2grupo2.Trabajo2grupo2Application",
+            "projectName": "trabajo2grupo2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
